@@ -1,4 +1,6 @@
-A system of linear simultaneous equations can be re-written as a matrix equation of the form $Ax = B$, where $A$ is the matrix of coefficients, $x$ is the column vector of variables, and $B$ is the column vector of constants. This can be a useful step when solving or analysing the properties of such a system of equations.
+A system of linear simultaneous equations can be re-written as a matrix equation of the form $Ax = B$, where $A$ is the matrix of coefficients, $x$ is the column vector of variables, and $B$ is the column vector of constants. This can be a useful step when solving a system of equations as methods of solving matrix equations can be applied. 
+
+Analysis of the matrix form can also provide insights into the properties of the system, such as consistency and the nature of the solutions.
 
 # Example
 
@@ -26,5 +28,3 @@ y
 1
 \end{pmatrix}
 $$
-
-This is mathematically equivalent to the original system of equations, but expressed in a compact matrix form. This allows for more efficient manipulation and solution using matrix operations, and provides a clear framework for understanding the structure of the system.
